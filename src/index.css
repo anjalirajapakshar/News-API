@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    scroll-behavior: smooth;
+    font-family: 'Poppins' , sans-serif;
+    /*font-family: "Century Gothic";*/
+}
+
+.nav-link:hover {
+    cursor: pointer;
+}
+
+.text-center{
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    margin-top: 2rem;
+    text-align: center;
+}
+
+
